@@ -1,12 +1,11 @@
-<P>cHello, my name is Dwayne. I am a new student here at Lambdaschool.</p>
+Hello, my name is Dwayne. I am a new student here at Lambdaschool.
 
+Intelligent
+Trustworthy
+Self-motivated
 
-<ul>Intelligent</ul> 
-<ul>Trustworthy</ul>
-<ul>Self-motivated</ul>
-
-<p>My favorite hobbies are learning. I like to be self sufficient, so 
+My favorite hobbies are learning. I like to be self sufficient, so 
 I'm always looking at something new trying to better myself. I like 
 to understand the methods behind different things and why they are the 
-way they are.</p>
+way they are.
 
